@@ -5,4 +5,4 @@ The picture person will always follow the mouse, and the animation person will m
 When people hit the "z" keyboard, the animation, which is a running person, will stop.
 When people hit the "x" keyboard, it will take a screen shot.
 
-![This is the screen shot of my project]()
+![This is the screen shot of my project](https://github.com/Leo3600Liu/HW_AnimationPoliceThief_Leo/blob/master/assets/animation-police-thief.png)
